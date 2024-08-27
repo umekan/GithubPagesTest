@@ -1,3 +1,7 @@
+# GithubPagesのテスト
+localhost:8080にhttpリクエストでjsonをPOSTする。
+ゲーム側で8080にローカルサーバ立てて、Webアプリからデバッグ用機能を呼び出す、みたいなのの想定で試しに作ってみたやつ。
+
 <details>
 <summary>ReactのデフォルトのReadMe</summary>
 # Getting Started with Create React App
